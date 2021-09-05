@@ -1,5 +1,5 @@
 # Laravel 6 Real Estate / Venues Management with Adminpanel
-
+  
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
